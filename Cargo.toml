@@ -20,5 +20,5 @@ debug = ["dep:env_logger"]
 [dependencies]
 heck = "0.4.1"
 # debug logs
-env_logger = { version = "0.10", optional = true }
+env_logger = { version = "0.11", optional = true }
 internment = "0.7.4"
