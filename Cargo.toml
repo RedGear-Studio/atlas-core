@@ -14,5 +14,5 @@ repository = "https://github.com/RedGear-Studio/atlas-core"
 name = "atlas_core"
 
 [dependencies]
-heck = "0.4.1"
+heck = "0.5.0"
 internment = "0.7.4"
