@@ -15,4 +15,4 @@ name = "atlas_core"
 
 [dependencies]
 heck = "0.4.1"
-internment = "0.7.4"
+internment = "0.8.1"
